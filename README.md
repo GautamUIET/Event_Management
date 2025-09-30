@@ -163,7 +163,7 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - **Form Validation**: Client-side input validation
 - **State Management**: User sessions and event states
 
-}
+
 
 
 ### Quick Start

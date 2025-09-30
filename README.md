@@ -53,8 +53,7 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 ### 1. 🏠 Home Page
 **Purpose**: Main landing page for event discovery
 
-![Home Page](Home_Page.png)
-
+![Home Page](screenshots/Website_screenshots/Home_Page.png)
 **Features**:
 - Event search bar with real-time filtering
 - Category-based event filtering (All, Technical, Cultural, Sports)

@@ -20,12 +20,10 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 ### 🔍 Event Discovery & Search
 - **Smart Search**: Find events by title, category, or keywords
 - **Category Filtering**: Browse events by Technical, Cultural, Sports, or Social categories
-- **Real-time Availability**: Live attendee counts and registration status
 
 ### 📝 Event Management
 - **Event Creation**: Comprehensive event setup with title, description, category, date, and capacity
 - **Organizer Dashboard**: Centralized management for created events
-- **Attendance Tracking**: Monitor registration numbers and event popularity
 
 ### 👤 User Management
 - **Dual Role System**: Separate interfaces for Students and Organizers
@@ -40,7 +38,7 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Browse and search events
 - Register for events
 - Manage personal registrations
-- View event history and attendance
+- View event history 
 
 ### 🎯 Organizer
 - Create and publish events
@@ -159,32 +157,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - **Form Validation**: Client-side input validation
 - **State Management**: User sessions and event states
 
-### Data Structure
-```
-User {
-  id, name, email, role, profile_picture
 }
 
-Event {
-  title, description, category, date, time,
-  location, organizer, price, capacity,
-  current_attendees, status
-}
-
-Registration {
-  user_id, event_id, registration_date,
-  status, attendance_status
-}
-```
-
----
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection
-- Modern JavaScript support
 
 ### Quick Start
 1. **Access the Platform**: Navigate to the application URL
@@ -231,70 +205,5 @@ Registration {
    - Analyze event popularity
    - Make data-driven decisions for future events
 
----
-
-## 🔄 Workflow Example
-
-### Student Journey:
-```
-Login → Browse Events → Search/Filter → View Details → 
-Register → Confirm → Track in Dashboard → Attend Event
-```
-
-### Organizer Journey:
-```
-Login → Dashboard → Create Event → Set Details → 
-Publish → Monitor Registrations → Manage Event
-```
-
----
-
-## 💡 Best Practices
-
-### For Students:
-- Register early for popular events with limited capacity
-- Keep your profile information updated
-- Check event details before registering
-- Track your attendance history
-
-### For Organizers:
-- Provide clear and detailed event descriptions
-- Set realistic capacity limits
-- Monitor registration trends
-- Update event information promptly
-
----
-
-## 🆘 Support & Troubleshooting
-
-### Common Issues:
-- **Registration Failed**: Check if event is at capacity
-- **Login Issues**: Verify email and password, use "Forgot Password" if available
-- **Event Not Found**: Try different search terms or categories
-
-### Getting Help:
-- Contact platform administrators
-- Check FAQ section
-- Report bugs through feedback system
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] Mobile application development
-- [ ] Calendar integration
-- [ ] Email notifications and reminders
-- [ ] Waitlist functionality for full events
-- [ ] Event rating and feedback system
-- [ ] Social sharing capabilities
-- [ ] Advanced analytics for organizers
-
----
-
-## 📞 Contact & Support
-
-For technical support or platform inquiries, please contact your institution's IT department or the platform administration team.
-
----
 
 **🎉 Happy Event Planning!**

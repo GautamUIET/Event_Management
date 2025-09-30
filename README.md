@@ -72,7 +72,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 ### 2. 🔐 Authentication System
 
 #### Login Screen
-![Login](Login.png)
+![Login](screenshots/Website_screenshots/Login.png)
+
 
 **Fields**:
 - Email address
@@ -80,7 +81,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Navigation to Sign Up page
 
 #### Sign Up Screen
-![Sign Up](Signup.png)
+![Signup](screenshots/Website_screenshots/Signup.png)
+
 
 **Registration Fields**:
 - Full Name
@@ -89,7 +91,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Role Selection (Student/Organizer)
 
 ### 3. 📊 Student Dashboard
-![Student Dashboard](Student_Dashboard.png)
+![Student_Dashboard](screenshots/Website_screenshots/Student_Dashboard.png)
+
 
 **Profile Section**:
 - User avatar and personal information
@@ -102,7 +105,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Category badges for quick identification
 
 ### 4. 🎪 Event Registration
-![Event Registration](Event_Registration.png)
+![Event_Registration](screenshots/Website_screenshots/Event_Registration.png)
+
 
 **Event Overview**:
 - Event title and detailed description
@@ -118,7 +122,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Registration summary confirmation
 
 ### 5. ⚡ Organizer Dashboard
-![Organizer Dashboard](Organizer_Dashboard.png)
+![Organizer_Dashboard](screenshots/Website_screenshots/Organizer_Dashboard.png)
+
 
 **Management Tools**:
 - `Create New Event` button
@@ -129,7 +134,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
   - Pricing information
 
 ### 6. 🎫 Event Creation
-![Event Creation](Event_Creation.png)
+![Event_Creation](screenshots/Website_screenshots/Event_Creation.png)
+
 
 **Required Fields**:
 - Event Title
@@ -139,7 +145,8 @@ The **Campus Events Platform** is a comprehensive web application designed to st
 - Maximum attendees capacity
 
 ### 7. 🔍 Search Results
-![Search](Search.png)
+![Search](screenshots/Website_screenshots/Search.png)
+
 
 **Features**:
 - Shows number of matching events
